@@ -1,0 +1,54 @@
+credentials:
+  mapr: 
+    host: 
+    user: 
+    passwd: 
+    test_store: 
+    prod_store: 
+  det:
+    prod:
+      host: 
+      user: 
+      passwd: 
+      port: 
+      uuid: 
+    test:
+      host: 
+      user: 
+      passwd: 
+      port: 
+      uuid: 
+  slack: 
+    url: 
+    
+paths:
+  prod:
+    working_dir: 
+    logs: 
+    evidences: 
+    merge: 
+    tmp:
+    datafile: 
+    all_addresses: 
+    mapr_jar: 
+    mainfile: 
+    extensions: 
+  test:
+    working_dir: 
+    logs: 
+    evidences: 
+    merge: 
+    tmp:
+    datafile: 
+    all_addresses: 
+    mapr_jar: 
+    mainfile: 
+    extensions: 
+
+tables:
+    address-cluster-data: 
+    big-addresses: 
+
+
+  
+
